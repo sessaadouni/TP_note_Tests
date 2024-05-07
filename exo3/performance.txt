@@ -1,0 +1,2 @@
+Temps pour fibo_r(22) sur 1000 itérations : 7.435826633009128 secondes
+Temps pour fibo_i(22) sur 1000 itérations : 0.0035529930028133094 secondes

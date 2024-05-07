@@ -1,0 +1,7 @@
+Name              Stmts   Miss  Cover   Missing
+-----------------------------------------------
+convert.py           10      0   100%
+exception.py          2      0   100%
+test_convert.py      24      0   100%
+-----------------------------------------------
+TOTAL                36      0   100%

@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "test": "pytest . | tee test-report.txt",
+        "coverage": "coverage run -m pytest .;coverage report -m | tee coverage.txt"
+    }
+}
